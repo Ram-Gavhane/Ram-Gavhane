@@ -8,8 +8,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ram-gavhane-002926324/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_ram_gavhane_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ram_gavhane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ram gavhane" height="30" width="40" /></a>
+<a href="https://x.com/ram_gavhane_?s=21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_ram_gavhane_" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ram-gavhane-002926324/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ram gavhane" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ram-gavhane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ram-gavhane" height="30" width="40" /></a>
 </p>
 
